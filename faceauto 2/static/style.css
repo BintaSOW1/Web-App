@@ -1,0 +1,21 @@
+html{
+    height: 100%;
+}
+body{
+    background: rgb(230, 227, 227);
+    min-height:100%;
+    margin:0;
+    background-image:url('8.png');
+    
+    background-size:cover ;
+    background-position: center;
+    background-repeat: repeat;  
+}
+ 
+
+.my-card:hover{
+    transform: scale(1.1);
+    transition: 0.2s ease-in-out;
+}
+
+     
